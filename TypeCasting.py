@@ -1,0 +1,12 @@
+#x=56
+#print(x,type(x))
+#y=str(x)
+#print(y,type(y))
+#my_name="Pranaysagar"
+#print(int(my_name))
+#print(bool(my_name))
+#print(str(x))
+#Number=True
+#print(bool(Number))
+str=""
+print(bool(str))

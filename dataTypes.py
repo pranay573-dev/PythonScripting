@@ -1,0 +1,10 @@
+x=3
+y=5.6
+z=3+4j
+y1=int(y)
+print(x,type(x))
+print(y,type(y))
+print(z,type(z))
+print(y1)
+z1=bool(y1)
+print(z1)
